@@ -1,0 +1,15 @@
+.recipeAuthorBlock {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+    
+    .imageUpdates {
+       object-fit: contain;
+      
+    }
+
+    .authorPhoto {
+        height: 100px;
+        width: 100px;
+    }
