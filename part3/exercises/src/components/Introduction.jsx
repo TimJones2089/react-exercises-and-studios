@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Playing Guitar</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>The best way to learn is through practicing other songs that you enjoy.</li>
+            <li>Chord shapes are tricky at first but get easier once they're committed to muscle memory.</li>
+            <li>Writing your own songs and creating your own ideas is a very free and fun experience.</li>
          </ol>
       </div>
    );
